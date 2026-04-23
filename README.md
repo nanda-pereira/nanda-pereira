@@ -19,7 +19,7 @@ My interests go beyond the screen: international relations, language learning, a
 
 **✦ find me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-fernandapereira--tech-c97a1a?style=flat&labelColor=faeeda)](https://www.linkedin.com/in/fernandapereira-tech/)
+[![LinkedIn](https://img.shields.io/badge/-fernandapereira--tech-orange?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandapereira-tech/)
 
 ---
 
