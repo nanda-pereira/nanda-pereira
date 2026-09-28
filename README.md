@@ -7,8 +7,6 @@ Currently pursuing **Analysis and Development of Systems** at FATEC Carapicuíba
 
 My interests go beyond the screen: international relations, language learning, and the intersection of human behavior and digital experience are what drive the way I build things.
 
-> *"Fancy is a frequency."*
-
 ---
 
 **✦ currently into**
@@ -19,10 +17,9 @@ My interests go beyond the screen: international relations, language learning, a
 
 **✦ find me**
 
-[![LinkedIn](https://img.shields.io/badge/-fernandapereira--tech-orange?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandapereira-tech/)
+[![LinkedIn](https://img.shields.io/badge/style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/fernandapereira-tech/](https://www.linkedin.com/in/nandaspereira/))
 &nbsp;
-[![GitHub](https://img.shields.io/badge/-nanda--pereira-gray?style=flat-square&logo=github&logoColor=white)](https://github.com/nanda-pereira)
 
 ---
 
-<sub>✦ &nbsp; open to collaborations, ideas & good conversations.</sub>
+<sub>✦ &nbsp; open to collaborations</sub>
