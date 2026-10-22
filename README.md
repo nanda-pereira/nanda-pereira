@@ -1,5 +1,3 @@
-<h1 align="left">fernanda pereira</h1>
-
 ✦ ✦ ✦
 
 Front-end developer & UX enthusiast based in São Paulo, Brazil.
@@ -11,7 +9,7 @@ My interests go beyond the screen: international relations, language learning, a
 
 **✦ currently into**
 
-`front-end dev` &nbsp; `UX & Figma` &nbsp; `language learning` &nbsp; `international relations` &nbsp; `data structures`
+`front-end dev` &nbsp; `UX & Figma` &nbsp; `language learning` &nbsp; `international relations` &nbsp; `data structures` &nbsp; `data analysis`
 
 ---
 
