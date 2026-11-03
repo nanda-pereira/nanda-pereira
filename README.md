@@ -12,11 +12,13 @@ my interests go beyond the screen: international relations, language learning, a
 `front-end dev` &nbsp; `UX & Figma` &nbsp; `language learning` &nbsp; `international relations` &nbsp; `data structures` &nbsp; `data analysis` &nbsp; `data applications` &nbsp; `business analytics`
 
 ---
-
 **✦ find me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nandaspereira/)
-&nbsp;
+<div style="display: flex; flex-wrap: wrap; gap: 6px;">
+  <a href="https://www.linkedin.com/in/nandaspereira/">
+    <img src="https://img.shields.io/badge/LinkedIn-18181b?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</div>
 
 ---
 
