@@ -1,6 +1,6 @@
 ✦ ✦ ✦
 
-full stack developer & UX enthusiast based in são paulo, brazil.
+full stack & data developer + UX enthusiast based in são paulo, brazil.
 currently pursuing **analysis and development of systems** at FATEC Carapicuíba - blending code, design, and a deep curiosity for how technology shapes the world.
 
 my interests go beyond the screen: international relations, language learning, and the intersection of human behavior and digital experience are what drive the way I build things.
