@@ -9,7 +9,7 @@ my interests go beyond the screen: international relations, language learning, a
 
 **✦ currently into**
 
-`front-end dev` &nbsp; `UX & Figma` &nbsp; `language learning` &nbsp; `international relations` &nbsp; `data structures` &nbsp; `data analysis` &nbsp; `data applications` &nbsp; `business analytics`
+`front-end` &nbsp; `UX & Figma` &nbsp; `language learning` &nbsp; `international relations` &nbsp; `data structures` &nbsp; `data analysis` &nbsp; `data applications` &nbsp; `business analytics` &nbsp; `business intelligence`
 
 ---
 **✦ find me**
